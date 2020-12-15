@@ -1,3 +1,7 @@
 .hc__authorization__soc {
     display: none;
 }
+
+.polls-overlay {
+    color: gray;
+}
