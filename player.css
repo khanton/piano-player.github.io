@@ -39,3 +39,7 @@
 .lang_arrow {
     background-color: #fa3037 !important;
 }
+
+.choice > .choice__votes:nth-cjild(2) > .percent {
+    color: gray !important;
+} 
