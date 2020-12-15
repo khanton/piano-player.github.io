@@ -2,7 +2,7 @@
     display: none;
 }
 
-.hc__authorization__wrapf:nth-child(2) {
+.hc__authorization__anonim > .hc__authorization__wrapf:nth-child(2) {
     display: none;
 } 
 
