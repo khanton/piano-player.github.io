@@ -13,7 +13,7 @@
     width: 100%
 }
 
-.polls-overlay__choices > .choixe:nth-child(2) {
+.polls-overlay__choices > .choice:nth-child(2) {
     background-color: white !important;
 }
 
