@@ -4,3 +4,18 @@
 
 .polls-overlay {
 }
+
+.polls-overlay__title h2 {
+    color: white !important;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.polls-overlay__choices .choice {
+    border: 2px solid #5e6a7d !important;
+} 
+
+.polls-overlay__choices .choice .choice__text {
+    color: white !important;
+}
