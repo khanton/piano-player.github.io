@@ -34,3 +34,8 @@
 .polls-overlay__choices > .choice > .choice__text {
     color: white !important;
 }
+
+
+.lang_arrow {
+    background-color: #fa3037 !important;
+}
