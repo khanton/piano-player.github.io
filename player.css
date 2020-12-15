@@ -3,5 +3,5 @@
 }
 
 .polls-overlay {
-    color: gray;
+    color: gray !important;
 }
